@@ -102,15 +102,6 @@ effect
 		
 	}
 }
-card
-{
-	Name : "Random",
-	Type : "Gold",
-	Range : ["Ranged"],
-	Power : 1,
-	Faction : "Neutral",
-	OnActivation :[]
-}
 card 
 {
 	Type:"Leader",
